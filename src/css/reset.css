@@ -1,0 +1,11 @@
+/*seletor de classe . *universal descendente ul li; em cascata nessa ordem*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
